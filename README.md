@@ -1,2 +1,2 @@
 # HCIBooksy
-Designd based on Figma
+Design based on Figma
